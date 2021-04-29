@@ -1,8 +1,11 @@
-### Olá a todos! 👋
+### 👋 Olá a todos! 
 
 * 👦 Arthur Carvalho Roque, 17 anos, brasiliense. 
 * 🤖 Me interesso pela área de Data Science e Machine Learning.
 * 🐍 Faço projetos pessoais em Python por pura diversão. 
+
+### 📊 My GitHub Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurRoque&show_icons=true&theme=highcontrast)
 
 
 <!---
