@@ -1,4 +1,7 @@
-### Olá! Meu nome é Arthur Carvalho Roque. Procuro sempre me manter por dentro das novidades na área de Data Science e Machine Learning. Além de estar sempre estudando, faço alguns  projetos pessoais com Python de vez em quando por pura diversão. 
+### Olá! Meu nome é Arthur Carvalho Roque. Procuro sempre me manter por dentro das novidades na área de Data Science e Machine Learning. 
+
+### Além de estar sempre estudando, faço alguns  projetos pessoais com Python de vez em quando por pura diversão. 
+
 
 <div class="box">
    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="300" height="250">
