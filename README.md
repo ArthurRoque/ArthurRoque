@@ -2,10 +2,6 @@
 
 ### Além de estar sempre estudando, faço alguns  projetos pessoais com Python de vez em quando por pura diversão. 
 
-
-<div class="box">
-   <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="300" height="250">
-</div>
 <div class="box">
     <img src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" width="300" height="250">
 </div>
