@@ -10,6 +10,7 @@
 ### 🔥 Contato
 - 📸 Insta: @arthur_r0que
 - 📞 Discord: Roque#3701
+- 📝 Medium: @arthurcarvalhoroque
 
 <!---
 ArthurRoque/ArthurRoque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
