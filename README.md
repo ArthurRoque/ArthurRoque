@@ -8,9 +8,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurRoque&show_icons=true&theme=highcontrast)
 
 ### 🔥 Contato
-- 📸 Insta: @arthur_r0que
 - 📞 Discord: Roque#3701
-- 📝 Medium: @arthurcarvalhoroque
+- 📸 Insta: https://www.instagram.com/arthur_r0que/
+- 📝 Medium: https://arthurcarvalhoroque.medium.com/
 
 <!---
 ArthurRoque/ArthurRoque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
