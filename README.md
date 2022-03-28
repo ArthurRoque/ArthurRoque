@@ -1,6 +1,6 @@
 ### 👋 Olá a todos! 
 
-* 👦 Arthur Carvalho Roque, 17 anos, brasiliense. 
+* 👦 Arthur Carvalho Roque, 18 anos, brasiliense. 
 * 🤖 Me interesso pela área de Data Science e Machine Learning.
 * 🐍 Faço projetos pessoais em Python por pura diversão. 
 
