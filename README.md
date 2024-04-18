@@ -5,7 +5,7 @@
 * 🤖 Grande entusiasta de tecnologia e linguagens de programação.
 * 💻♾️ Enlevado pela modelagem estatística e suas aplicações. A arte de atirar em uma formiga e anunciar que matou um elefante.
 
-_"Some use statistics as a drunk man uses a lamppost: for support rather than illumination."_ - Andrew Lang.
+
 
 ### 📊 My GitHub Status
 
