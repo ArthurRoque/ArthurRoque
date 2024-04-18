@@ -5,6 +5,7 @@
 
 ### 📊 My GitHub Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurRoque&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRoque&show)
 
 _"Some use statistics as a drunk man uses a lamppost: for support rather than illumination."_ - Andrew Lang.
 
