@@ -37,6 +37,7 @@
   <img align="center" alt="Streamlit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" />
   <img align="center" alt="Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" />  
   <img align="center" alt="Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
+  <img align="center" alt="jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="Matplotlib" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" />
 </div>
 
