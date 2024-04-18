@@ -35,6 +35,7 @@
 ### BI Softwares, Tools and Frameworks
 <div style="display: inline_block"><br>
   <img align="center" alt="PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
+  <img align="center" alt="Excel" height="30" width="40" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" />
   <img align="center" alt="Streamlit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" />
   <img align="center" alt="Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" />  
   <img align="center" alt="Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
