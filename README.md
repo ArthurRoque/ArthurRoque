@@ -13,14 +13,14 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="R" height="30" width="40" src="icons/r/r-original.svg" />
+  <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
   <img align="center" alt="Julia" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" />
   <img align="center" alt="PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
   <img align="center" alt="Streamlit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" />
   <img align="center" alt="LaTex" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Selenium" height="30" width="40" src="[icons/selenium/selenium-original.svg](https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg)" />  
-  <img align="center" alt="Flask" height="30" width="40" src="[icons/flask/flask-original.svg](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg)" />
+  <img align="center" alt="Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" />  
+  <img align="center" alt="Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
   <img align="center" alt="HTML5" height="30" width="40" src="https://www.svgrepo.com/show/197982/html.svg" />
   <img align="center" alt="CSS3" height="30" width="40" src="https://www.svgrepo.com/show/373535/css.svg" />
 </div>
