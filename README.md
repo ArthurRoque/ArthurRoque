@@ -1,7 +1,11 @@
 ### 👋 Olá a todos! 
 
 * 👦 Arthur Carvalho Roque, 20 anos, brasiliense.
-* 🎓 Cursando estatística (Universidade de Brasília).
+* 🎓 Discente de estatística pela Universidade de Brasília.
+* 🤖 Grande entusiasta de tecnologia e linguagens de programação.
+* 💻♾️ Enlevado pela modelagem estatística e suas aplicações. A arte de atirar em uma formiga e anunciar que matou um elefante.
+
+_"Some use statistics as a drunk man uses a lamppost: for support rather than illumination."_ - Andrew Lang.
 
 ### 📊 My GitHub Status
 
@@ -11,28 +15,37 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRoque&theme=blue-green"/>
 </div>
 
+### Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
   <img align="center" alt="Julia" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" />
+  <img align="center" alt="SQL" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
+### Markup Languages
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://www.svgrepo.com/show/197982/html.svg" />
+  <img align="center" alt="LaTex" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />
+  <img align="center" alt="CSS3" height="30" width="40" src="https://www.svgrepo.com/show/373535/css.svg" />
+  <img align="center" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />
+</div>
+
+### BI Softwares, Tools and Frameworks
+<div style="display: inline_block"><br>
   <img align="center" alt="PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
   <img align="center" alt="Streamlit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" />
-  <img align="center" alt="LaTex" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" />  
   <img align="center" alt="Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://www.svgrepo.com/show/197982/html.svg" />
-  <img align="center" alt="CSS3" height="30" width="40" src="https://www.svgrepo.com/show/373535/css.svg" />
+  <img align="center" alt="Matplotlib" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" />
 </div>
-  
+
  ##
  
 <div> 
   <a href="https://www.linkedin.com/in/arthur-roque-a65a00210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   <a href="https://www.kaggle.com/arthurcarvalhoroque" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 </div>
-
-_"Some use statistics as a drunk man uses a lamppost: for support rather than illumination."_ - Andrew Lang.
 
 <!---
 ArthurRoque/ArthurRoque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
