@@ -2,7 +2,7 @@
 
 * 👦 Arthur Carvalho Roque, 20 anos, brasiliense.
 * 🎓 Discente de estatística pela Universidade de Brasília.
-* 🤖 Grande entusiasta de tecnologia e linguagens de programação.
+* 🤖 Grande entusiasta de tecnologias IA, blockchain e de linguagens de programação inovadoras.
 * 💼 Atual estagiário da Coordenadoria de Pesquisa e Estatística do Tribunal Regional do Trabalho de Brasília.
 * 💻♾️ Enlevado pela modelagem estatística e suas aplicações. A arte de atirar em uma formiga e anunciar que matou um elefante.
 
